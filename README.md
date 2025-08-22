@@ -30,8 +30,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=boateng0303&theme=default&hide_border=false)   
 
-![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=boateng0303&repo=boateng0303/Bank-app-devsecops&theme=default&hide_border=false)  
-
 ---
 
 ## 🌍 Connect With Me  
