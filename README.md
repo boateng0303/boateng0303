@@ -3,7 +3,7 @@
 🚀 DevOps Engineer | Cloud & Security Enthusiast | Automation Driven  
 
 ## 🔧 Tech Stack
-- **Cloud:** AWS | Azure | GCP  
+- **Cloud:** AWS |
 - **Containers & Orchestration:** Docker | Kubernetes | Helm | ArgoCD  
 - **IaC & Automation:** Terraform | Ansible | Jenkins | GitHub Actions  
 - **Monitoring & Security:** Prometheus | Grafana | Trivy  
@@ -18,8 +18,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boateng0303&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boateng0303&layout=compact&theme=tokyonight)  
 
 ---
 
