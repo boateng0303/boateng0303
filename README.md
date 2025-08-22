@@ -33,7 +33,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boateng0303&layout=compact&theme=default&hide_border=false)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=&theme=default&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=boateng0303&theme=default&hide_border=false)   
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boateng0303&theme=github-light)  
 
