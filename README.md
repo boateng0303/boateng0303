@@ -1,6 +1,7 @@
 # Hi, I'm Kwasi 👋  
 
-🚀 DevOps Engineer | Cloud & Security Enthusiast | Automation Driven  
+🚀 I’m a Platform Engineer with proficiency in tools like Linux, Bash, Git, Docker, AWS, Kubernetes, and Azure.
+📜 I hold the Kubernetes Trifecta (CKA, CKAD, CKS).
 
 ---
 
@@ -20,13 +21,6 @@
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 
 
-## 📌 Featured Projects  
-- 🏦 [Bank Management System DevOps Project](https://github.com/YOURUSERNAME/Bank-Management-System)  
-- 🤖 [MLOps FastAPI Deployment](https://github.com/YOURUSERNAME/mlops-fastapi)  
-- ☁️ [Terraform AWS IaC Project](https://github.com/YOURUSERNAME/terraform-aws-infra)  
-
----
-
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boateng0303&show_icons=true&theme=default&hide_border=false)  
@@ -35,7 +29,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=boateng0303&theme=default&hide_border=false)   
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boateng0303&theme=github-light)  
+![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=boateng0303&repo=REPOSITORY-NAME&theme=default&hide_border=false)  
 
 ---
 
