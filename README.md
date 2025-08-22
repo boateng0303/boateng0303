@@ -1,7 +1,8 @@
 # Hi, I'm Kwasi 👋  
 
-🚀 I’m a Platform Engineer with proficiency in tools like Linux, Bash, Git, Docker, AWS, Kubernetes, and Azure.
-📜 I hold the Kubernetes Trifecta (CKA, CKAD, CKS).
+🚀 I’m a DevOps Engineer with proficiency in Linux, Bash, Git, Docker, AWS, Kubernetes, and GitHub Actions.  
+
+📜 I hold the Kubernetes CKA and Terraform Associate.  
 
 ---
 
