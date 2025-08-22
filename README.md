@@ -31,17 +31,13 @@
 
 ## 📊 GitHub Stats  
 
-### 🔥 General Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default&hide_border=false)  
 
-### 🌐 Languages Breakdown  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default&hide_border=false)  
 
-### 📈 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=default&hide_border=false)  
 
-### 📊 Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-light)  
 
 ---
 
