@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kwasi 👋  
 
-<!--
-**boateng0303/boateng0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Cloud & Security Enthusiast | Automation Driven  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Cloud:** AWS | Azure | GCP  
+- **Containers & Orchestration:** Docker | Kubernetes | Helm | ArgoCD  
+- **IaC & Automation:** Terraform | Ansible | Jenkins | GitHub Actions  
+- **Monitoring & Security:** Prometheus | Grafana | Trivy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+- 🏦 [Bank Management System DevOps Project](https://github.com/YOURUSERNAME/Bank-Management-System)  
+- 🤖 [MLOps FastAPI Deployment](https://github.com/YOURUSERNAME/mlops-fastapi)  
+- ☁️ [Terraform AWS IaC Project](https://github.com/YOURUSERNAME/terraform-aws-infra)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOURNAME)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourportfolio.com)  
